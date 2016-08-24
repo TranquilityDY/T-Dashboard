@@ -1,1 +1,2 @@
-# T-Dashboard
+Dashboard Starter Kit
+=====================
